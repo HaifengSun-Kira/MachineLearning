@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://sfbay.craigslist.org/search/stp?format=rss">
+<title>craigslist SF bay area | strictly platonic search </title>
+<link>https://sfbay.craigslist.org/search/stp</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://sfbay.craigslist.org/search/stp?format=rss</dc:source>
+<dc:title>craigslist SF bay area | strictly platonic search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-11-09T00:42:58-08:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/pen/stp/d/sex-friend-m4w/6358489909.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6379676929.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/looking-for-some-fun-w4m/6379687941.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/stp/d/friends-m4w/6379678090.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/handsome-swm-for-latina-bbw/6352515447.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/stp/d/new-to-the-area-m4mw/6379680506.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6371665949.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/novato-running-partner-hiking/6379676163.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/free-massage-swedish-and-deep/6371497051.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/seeking-fun-partner-m4w/6342824891.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6370006335.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6379663887.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/stp/d/beautiful-girl-to-have-dates/6379661562.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/somewhere-only-we-know-m4w/6379660672.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/pen/stp/d/married-looking-for-platonic/6379652652.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/ssu-dance-show-w4m/6379652144.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/stp/d/looking-for-wingman-m4m/6379650588.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/hot-tubs-on-van-ness-sounds/6379644514.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/life-not-working-out-looking/6379637502.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/stp/d/nice-asian-lady-sought-for/6358284630.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/chat-tonight-m4w/6379628964.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/nby/stp/d/lets-grab-beer-shoot-the-w4mw/6379604461.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sfc/stp/d/seeking-new-friends-to-w4w/6379610952.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/eby/stp/d/bi-sexual-male-seeks-lesbian/6354509996.html" />
+  <rdf:li rdf:resource="https://sfbay.craigslist.org/sby/stp/d/salsa-partner-m4w/6379604772.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://sfbay.craigslist.org/pen/stp/d/sex-friend-m4w/6358489909.html">
+<title><![CDATA[Sex Friend - m4w (redwood city)]]></title>
+<link>https://sfbay.craigslist.org/pen/stp/d/sex-friend-m4w/6358489909.html</link>
+<description><![CDATA[Looking for a friend to hangout with and have some sex with I am clean and respectful married or single is ok open to all shapes and personalities email me or hit me up on]]></description>
+<dc:date>2017-11-08T23:32:02-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/pen/stp/d/sex-friend-m4w/6358489909.html</dc:source>
+<dc:title><![CDATA[Sex Friend - m4w (redwood city)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T23:32:02-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6379676929.html">
+<title><![CDATA[free massage for relaxation and bliss - m4w (novato)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6379676929.html</link>
+<description><![CDATA[Massage heals in a way like no other. When we are relaxed our cells can heal and we feel better. I love both therapeutic massage and tantric massage. I prefer to massage woman, I have a massage table and warm oils here in Marin and am open to making  ...]]></description>
+<dc:date>2017-11-08T23:31:47-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6379676929.html</dc:source>
+<dc:title><![CDATA[free massage for relaxation and bliss - m4w (novato)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Z0Z_jJkQbHO1Ken_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-11-08T23:31:47-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/looking-for-some-fun-w4m/6379687941.html">
+<title><![CDATA[Looking for some fun - w4m (santa rosa)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/looking-for-some-fun-w4m/6379687941.html</link>
+<description><![CDATA[I am looking for a free massage from someone that is also a massage therapist or student. If interested email me at above address. I will be waiting for thanks!]]></description>
+<dc:date>2017-11-08T23:26:33-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/looking-for-some-fun-w4m/6379687941.html</dc:source>
+<dc:title><![CDATA[Looking for some fun - w4m (santa rosa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T23:26:33-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/stp/d/friends-m4w/6379678090.html">
+<title><![CDATA[friends? - m4w (sunnyvale)]]></title>
+<link>https://sfbay.craigslist.org/sby/stp/d/friends-m4w/6379678090.html</link>
+<description><![CDATA[Just looking for someone to have a meaningful conversation about anything. I am sure everyone gets bored sometimes and once in a while would like to have friend outside of her family/friends circle to talk about anything without being judged.
+I don' ...]]></description>
+<dc:date>2017-11-08T23:22:09-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/stp/d/friends-m4w/6379678090.html</dc:source>
+<dc:title><![CDATA[friends? - m4w (sunnyvale)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T23:22:09-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/handsome-swm-for-latina-bbw/6352515447.html">
+<title><![CDATA[Handsome SWM for Latina BBW Who Loves to Kiss - m4w (Fairfield)]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/handsome-swm-for-latina-bbw/6352515447.html</link>
+<description><![CDATA[Hi! I'm looking for a Latina BBW who just wants to chill, makeout (I'm a great kisser...love to tongue kiss!) and just hangout and cuddle and watch a movie.
+I'm Tall and handsome and love Latina women! I'll send you my pics when you reply.
+Looking  ...]]></description>
+<dc:date>2017-11-08T23:15:13-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/handsome-swm-for-latina-bbw/6352515447.html</dc:source>
+<dc:title><![CDATA[Handsome SWM for Latina BBW Who Loves to Kiss - m4w (Fairfield)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T23:15:13-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/stp/d/new-to-the-area-m4mw/6379680506.html">
+<title><![CDATA[New to the area - m4mw (san jose south)]]></title>
+<link>https://sfbay.craigslist.org/sby/stp/d/new-to-the-area-m4mw/6379680506.html</link>
+<description><![CDATA[Hey, I'm 22 and new to the area. I don't know anyone around here so it would be nice to have a friend to talk to and hang out with from time to time. I'm 420 friendly]]></description>
+<dc:date>2017-11-08T23:01:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/stp/d/new-to-the-area-m4mw/6379680506.html</dc:source>
+<dc:title><![CDATA[New to the area - m4mw (san jose south)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T23:01:51-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6371665949.html">
+<title><![CDATA[free massage for relaxation and bliss - m4w (novato)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6371665949.html</link>
+<description><![CDATA[Massage heals in a way like no other. When we are relaxed our cells can heal and we feel better. I love both therapeutic massage and tantric massage. I prefer to massage woman, I have a massage table and warm oils here in Marin and am open to making  ...]]></description>
+<dc:date>2017-11-08T22:53:07-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/free-massage-for-relaxation/6371665949.html</dc:source>
+<dc:title><![CDATA[free massage for relaxation and bliss - m4w (novato)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00x0x_cK3lqwnyskX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-11-08T22:53:07-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/novato-running-partner-hiking/6379676163.html">
+<title><![CDATA[Novato, running partner, hiking friend - m4w (novato)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/novato-running-partner-hiking/6379676163.html</link>
+<description><![CDATA[Hi,
+there are a ton of running paths in Novato that I would like
+to check out. I am looking to run at least 1 time
+a week with another. My personal schedule is to run 3 times a
+week..
+Let me know what your schedule is like and maybe we can jog
+ ...]]></description>
+<dc:date>2017-11-08T22:48:42-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/novato-running-partner-hiking/6379676163.html</dc:source>
+<dc:title><![CDATA[Novato, running partner, hiking friend - m4w (novato)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00v0v_6Cg3u7wydNS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-11-08T22:48:42-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/free-massage-swedish-and-deep/6371497051.html">
+<title><![CDATA[Free  Massage, Swedish and Deep Tissue made non boring - m4w (North Bay/ Marin)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/free-massage-swedish-and-deep/6371497051.html</link>
+<description><![CDATA[I am available for free Swedish and Deep Tissue Massage Sessions with interesting variations for relaxation, pleasure and fun . I am an experienced mature therapist from Marin County. Please reply with your quarries , location and a picture for early ...]]></description>
+<dc:date>2017-11-08T22:26:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/free-massage-swedish-and-deep/6371497051.html</dc:source>
+<dc:title><![CDATA[Free  Massage, Swedish and Deep Tissue made non boring - m4w (North Bay/ Marin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T22:26:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/seeking-fun-partner-m4w/6342824891.html">
+<title><![CDATA[SEEKING FUN PARTNER - m4w (North Bay/ Marin)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/seeking-fun-partner-m4w/6342824891.html</link>
+<description><![CDATA[As the title suggests , I seek a female for friendship and companionship for hangouts, movies, museums , plays, restaurants and shopping malls, walk and talk and other outdoor fun activities. I am a mature guy ,fit and active , sane and safe .simple  ...]]></description>
+<dc:date>2017-11-08T22:26:11-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/seeking-fun-partner-m4w/6342824891.html</dc:source>
+<dc:title><![CDATA[SEEKING FUN PARTNER - m4w (North Bay/ Marin)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T22:26:11-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6370006335.html">
+<title><![CDATA[21 muchacho busca conversation con mujer madura - m4w]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6370006335.html</link>
+<description><![CDATA[Tengo 23 anos estoy buscando una mujer madura pa textear en email o kik para hablar de lo que sea prefiero mujer soltera pero con que su novio o marido no sepa y cause problemas esta bien
+Espero sus mensajes]]></description>
+<dc:date>2017-11-08T22:18:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6370006335.html</dc:source>
+<dc:title><![CDATA[21 muchacho busca conversation con mujer madura - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T22:18:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6379663887.html">
+<title><![CDATA[21 muchacho busca conversation con mujer madura - m4w]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6379663887.html</link>
+<description><![CDATA[Tengo 23 anos estoy buscando una mujer madura pa textear en email o kik para hablar de lo que sea prefiero mujer soltera pero con que su novio o marido no sepa y cause problemas esta bien
+Espero sus mensajes]]></description>
+<dc:date>2017-11-08T22:15:05-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/21-muchacho-busca/6379663887.html</dc:source>
+<dc:title><![CDATA[21 muchacho busca conversation con mujer madura - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T22:15:05-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/stp/d/beautiful-girl-to-have-dates/6379661562.html">
+<title><![CDATA[Beautiful girl to have dates and regular sex - m4w (downtown)]]></title>
+<link>https://sfbay.craigslist.org/sfc/stp/d/beautiful-girl-to-have-dates/6379661562.html</link>
+<description><![CDATA[Hello,
+If you are free tonight - hit me up, I need a beautiful tall girl to go on dates with me and have regular sex.
+Send me your face photo ]]></description>
+<dc:date>2017-11-08T22:09:07-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/stp/d/beautiful-girl-to-have-dates/6379661562.html</dc:source>
+<dc:title><![CDATA[Beautiful girl to have dates and regular sex - m4w (downtown)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T22:09:07-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/somewhere-only-we-know-m4w/6379660672.html">
+<title><![CDATA[Somewhere only we know - m4w]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/somewhere-only-we-know-m4w/6379660672.html</link>
+<description><![CDATA[Looking for someone to talk and listen, to rant and celebrate, to dream and to plan, to vent and to cherish, to motivate, to inspire, to coach and be coached, to mentor and be mentored...
+let's talk
+Indian, software professional, looking to chat wi ...]]></description>
+<dc:date>2017-11-08T22:06:59-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/somewhere-only-we-know-m4w/6379660672.html</dc:source>
+<dc:title><![CDATA[Somewhere only we know - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00A0A_4efNSUPmvQM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-11-08T22:06:59-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/pen/stp/d/married-looking-for-platonic/6379652652.html">
+<title><![CDATA[Married looking for platonic friend - m4w (burlingame)]]></title>
+<link>https://sfbay.craigslist.org/pen/stp/d/married-looking-for-platonic/6379652652.html</link>
+<description><![CDATA[Seems like being married it's super hard to make new friends, especially on CL. Well I'm married and looking for a genuine friend. Someone I can chat with throughout the day and distract me from the doldrums of the work day.
+"But why would I want to ...]]></description>
+<dc:date>2017-11-08T21:48:26-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/pen/stp/d/married-looking-for-platonic/6379652652.html</dc:source>
+<dc:title><![CDATA[Married looking for platonic friend - m4w (burlingame)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:48:26-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/ssu-dance-show-w4m/6379652144.html">
+<title><![CDATA[SSU Dance Show? - w4m (petaluma)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/ssu-dance-show-w4m/6379652144.html</link>
+<description><![CDATA[Anyone wana check out a free Dance show at SSU either tomorrow or this Saturday?
+Show is thursday 11/9 at 7:30PM
+Or Saturday at 5:30.....
+I live in Petaluma, work full time, travel, college grad.... just trying to make new friends around the area! ...]]></description>
+<dc:date>2017-11-08T21:47:18-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/ssu-dance-show-w4m/6379652144.html</dc:source>
+<dc:title><![CDATA[SSU Dance Show? - w4m (petaluma)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:47:18-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/stp/d/looking-for-wingman-m4m/6379650588.html">
+<title><![CDATA[Looking for a wingman - m4m (san francisco)]]></title>
+<link>https://sfbay.craigslist.org/sfc/stp/d/looking-for-wingman-m4m/6379650588.html</link>
+<description><![CDATA[Iam a 30 something man looking to go out and have a good time with a wingman. Have you ever gone out and saw this beautiful group of girls and wanted to talk to them. Its hard to go solo so iam here recruiting men who not only want to get laid but al ...]]></description>
+<dc:date>2017-11-08T21:43:37-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/stp/d/looking-for-wingman-m4m/6379650588.html</dc:source>
+<dc:title><![CDATA[Looking for a wingman - m4m (san francisco)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:43:37-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/hot-tubs-on-van-ness-sounds/6379644514.html">
+<title><![CDATA[Hot tubs on van ness sounds so good tonight - m4w (bay area)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/hot-tubs-on-van-ness-sounds/6379644514.html</link>
+<description><![CDATA[what do you think? we can go just as friends or what ever happens happens. the fact is it sounds so good to take a hot tub tonight . I don't have an age group , how ever I do enjoy mature people . I've known people in their late 20's that have been f ...]]></description>
+<dc:date>2017-11-08T21:30:24-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/hot-tubs-on-van-ness-sounds/6379644514.html</dc:source>
+<dc:title><![CDATA[Hot tubs on van ness sounds so good tonight - m4w (bay area)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:30:24-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/life-not-working-out-looking/6379637502.html">
+<title><![CDATA[Life not working out, looking for backpacking companion - m4mw (oakland lake merritt / grand)]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/life-not-working-out-looking/6379637502.html</link>
+<description><![CDATA[Wanting: A backpacking partner at the end of March of next year, read on if interested. NOT a short journey.
+Been depressed all my life, very lost in career choices, bouncing between schools and majors without anything, not sure what I'm passionate  ...]]></description>
+<dc:date>2017-11-08T21:16:24-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/life-not-working-out-looking/6379637502.html</dc:source>
+<dc:title><![CDATA[Life not working out, looking for backpacking companion - m4mw (oakland lake merritt / grand)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:16:24-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/stp/d/nice-asian-lady-sought-for/6358284630.html">
+<title><![CDATA[Nice Asian lady sought for Coffee @ AMC Mercado - m4w (santa clara)]]></title>
+<link>https://sfbay.craigslist.org/sby/stp/d/nice-asian-lady-sought-for/6358284630.html</link>
+<description><![CDATA[I'm a nice friendly Caucasian man who would love to meet up with a new
+lady friend who enjoys drinking coffee and chatting. If we have chemistry
+perhaps walk over and see a movie next door at the Amc Mercado. I'm
+just looking for new friends, so s ...]]></description>
+<dc:date>2017-11-08T21:06:48-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/stp/d/nice-asian-lady-sought-for/6358284630.html</dc:source>
+<dc:title><![CDATA[Nice Asian lady sought for Coffee @ AMC Mercado - m4w (santa clara)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:06:48-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/chat-tonight-m4w/6379628964.html">
+<title><![CDATA[Chat tonight? - m4w (lafayette / orinda / moraga)]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/chat-tonight-m4w/6379628964.html</link>
+<description><![CDATA[I can't think of a good reason not to on this rainy night.
+Email, chst, whatever works for you
+:)]]></description>
+<dc:date>2017-11-08T21:00:22-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/chat-tonight-m4w/6379628964.html</dc:source>
+<dc:title><![CDATA[Chat tonight? - m4w (lafayette / orinda / moraga)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T21:00:22-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/nby/stp/d/lets-grab-beer-shoot-the-w4mw/6379604461.html">
+<title><![CDATA[Let's grab a beer n shoot the... - w4mw (rohnert pk / cotati)]]></title>
+<link>https://sfbay.craigslist.org/nby/stp/d/lets-grab-beer-shoot-the-w4mw/6379604461.html</link>
+<description><![CDATA[Me: fun, sarcastic, loving, 36f, bbw, mixed race with a vampy vibe ;) northbay area...I love a good ipa. Great beer and live music are my faves for local activities. My career demands a lot of my time so making time to meet people outside of work can ...]]></description>
+<dc:date>2017-11-08T20:33:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/nby/stp/d/lets-grab-beer-shoot-the-w4mw/6379604461.html</dc:source>
+<dc:title><![CDATA[Let's grab a beer n shoot the... - w4mw (rohnert pk / cotati)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T20:33:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sfc/stp/d/seeking-new-friends-to-w4w/6379610952.html">
+<title><![CDATA[seeking new friends to... - w4w]]></title>
+<link>https://sfbay.craigslist.org/sfc/stp/d/seeking-new-friends-to-w4w/6379610952.html</link>
+<description><![CDATA[hit up a happy hour, or a night out, or a meal, or a movie (in front of the tube with pizza or at the theatre with popcorn), or shopping sprees of any sort, brunch on the weekends, or...whatever! I'm in my 40's, single (boyfriend and I broke up earli ...]]></description>
+<dc:date>2017-11-08T20:28:40-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sfc/stp/d/seeking-new-friends-to-w4w/6379610952.html</dc:source>
+<dc:title><![CDATA[seeking new friends to... - w4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T20:28:40-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/eby/stp/d/bi-sexual-male-seeks-lesbian/6354509996.html">
+<title><![CDATA[Bi-Sexual Male Seeks Lesbian Friends - m4w (East Bay)]]></title>
+<link>https://sfbay.craigslist.org/eby/stp/d/bi-sexual-male-seeks-lesbian/6354509996.html</link>
+<description><![CDATA[I'm looking for some cool lesbians to chat with... text. Email.... be good friends and hang out with. Long distance is cool as well as I love to travel. I love making new friends and I love keeping touch with people in different states. I am looking  ...]]></description>
+<dc:date>2017-11-08T20:23:59-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/eby/stp/d/bi-sexual-male-seeks-lesbian/6354509996.html</dc:source>
+<dc:title><![CDATA[Bi-Sexual Male Seeks Lesbian Friends - m4w (East Bay)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00j0j_1sBD0pI3EVS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-11-08T20:23:59-08:00</dcterms:issued>
+</item>
+<item rdf:about="https://sfbay.craigslist.org/sby/stp/d/salsa-partner-m4w/6379604772.html">
+<title><![CDATA[Salsa partner - m4w (san jose north)]]></title>
+<link>https://sfbay.craigslist.org/sby/stp/d/salsa-partner-m4w/6379604772.html</link>
+<description><![CDATA[Looking for a salsa partner to practice a few times a week.
+Im beginner/intermediate
+38/m/athletic ]]></description>
+<dc:date>2017-11-08T20:18:52-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>https://sfbay.craigslist.org/sby/stp/d/salsa-partner-m4w/6379604772.html</dc:source>
+<dc:title><![CDATA[Salsa partner - m4w (san jose north)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-11-08T20:18:52-08:00</dcterms:issued>
+</item>
+</rdf:RDF>
